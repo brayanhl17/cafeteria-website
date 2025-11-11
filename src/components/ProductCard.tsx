@@ -30,3 +30,4 @@ export function ProductCard({ title, description, price, image }: ProductCardPro
     </div>
   );
 }
+

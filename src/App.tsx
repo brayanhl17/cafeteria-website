@@ -15,7 +15,7 @@ export default function App() {
     },
     {
       title: 'Cappuccino Artesanal',
-      description: 'Espresso con leche vaporizada y arte latte',
+      description: 'Espresso con leche vaporizada y arte latte que te encantará',
       price: '$4.50',
       image: 'https://images.unsplash.com/photo-1667388363683-a07bbf0c84b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjYXBwdWNjaW5vJTIwbGF0dGUlMjBhcnR8ZW58MXx8fHwxNzYyMDA5MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral'
     },
@@ -36,7 +36,7 @@ export default function App() {
     },
     {
       title: 'Sandwich Gourmet',
-      description: 'Pan artesanal con ingredientes frescos y selectos',
+      description: 'Pan artesanal con ingredientes frescos',
       price: '$6.50',
       image: 'https://images.unsplash.com/photo-1712725213059-a05103ed48e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzYW5kd2ljaCUyMGNhZmV8ZW58MXx8fHwxNzYyMDc3MzUyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral'
     },
